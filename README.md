@@ -55,6 +55,7 @@ Maintenance cost to Satisfaction Rating
 **What is the null hypothesis or alternative hypothesis?**
 
 **Null Hypothesis**: Maintenance Cost does not affect the Satisfaction Rating of the vehicle. The statistical difference between the two is random chance.
+
 **Alternative Hypothesis**: Maintenance Cost does affect the Satisfaction Rating of the vehicle. The statistical difference between the two is not random chance.
 
 **What statistical test would you use to test the hypothesis? And why?**
